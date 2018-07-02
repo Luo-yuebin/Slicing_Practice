@@ -649,6 +649,15 @@ h1 {
 .page_08_text4 {
 	flex: 1.3;
 }
+.page_08 a:link {
+	color: #FFFFFF;
+}
+.page_08 a:hover {
+	color: #FFFFFF;
+}
+.page_08 a:active {
+	color: #FFFFFF;
+}
 .page_08 a:visited {
 	color: #FFFFFF;
 }
